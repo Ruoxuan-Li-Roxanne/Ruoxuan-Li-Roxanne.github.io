@@ -1,15 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Ruoxuan (Roxanne) Li. Currently, I am a fourth-year Ph.D. student in Quantitative Psychology program at the University of Notre Dame, where I have been studying since 2021. I am current under supervision of Prof. Lijuan (Peggy) Wang at University of Notre Dame. I also work with Prof.  Margarita Alegría at Harvard Medical School, Prof. Irene J. K. Park at Indiana University School of Medicine, and Prof. Tiffany Yip at Fordham University.
 
-A data-driven personal website
+I recived an M.S. in Applied Statistics at University of Notre Dame in 2024. Prior to this, I earned my M.A. in School and Education Psychology and my B.S. in Psychology from Beijing Normal University in 2020 and 2017, respectively.
+I are working on projects of developing advanced satistic models used in psychology area. 
+
+
+Research Interests
+======
+My research interests are focused on the application of advanced statistical methods and machine learning techniques in psychology. Specifically, I have been working on dynamic structural equation models, causal inference, and the development of predictive models using deep learning. I am passionate about exploring how these methodologies can enhance our understanding of psychological processes and improve interventions in educational and health settings.
+
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
