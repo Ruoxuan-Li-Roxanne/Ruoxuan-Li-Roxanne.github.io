@@ -49,9 +49,6 @@ Selected Talks
 - **Li, R.**, & Wang, L. (2023). Investigating weight constraint methods for modeling causal-formative indicators. Oral presentation at 2023 International Meeting of Psychometric Society (IMPS). College Park, Maryland, United States.
 - **Li, R.**, & Wang, L. (2023). An analytical comparison of the cross-lagged, latent growth curve, and latent difference score models for longitudinal mediation analysis. Poster presentation at Society of Multivariate Experimental Psychology 2023 Program. Iowa City, Iowa, United States.
 - **Li, R.**, Chen, Y., Liu, H., & Yao, M. (2019). Need satisfaction and frustration profiles and their relations with SNSs outcomes: A person-centered approach. Oral presentation at the XVI European Congress of Psychology. Moscow State University, Russia.
-- **Li, R.**, Chen, Y., Liu, H., & Yao, M. (2019). Why we use social media? The contributions of sensation seeking, shyness and loneliness on motivations. Oral presentation at the Twenty-Two Annual Meeting of the China. In Chinese.
-- **Li, R.**, Liu, H., & Yao, M. (2018). The roles of autonomy support from parents and head teacher in adolescents’ subjective well-being and loneliness: A person-centered perspective.
-
 
 Service
 ======
