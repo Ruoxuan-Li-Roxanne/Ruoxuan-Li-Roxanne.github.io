@@ -1,4 +1,13 @@
+---
+layout: archive
+title: "Fun Facts"
+permalink: /funfacts/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+{% include base_path %}
 
 Hobbies
 ======
