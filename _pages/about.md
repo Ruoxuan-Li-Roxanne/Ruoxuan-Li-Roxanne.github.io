@@ -16,13 +16,10 @@ My research interests are focused on the application of advanced statistical met
 
 Education
 ======
-* 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
-
-* 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
-
-* 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
-
-* 2017 - 2020, B.S. Psychologyy, Beijing Normal University, Beijing, China
+- 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
+- 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
+- 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
+- 2017 - 2020, B.S. Psychologyy, Beijing Normal University, Beijing, China
 
 Selected Publications
 ======
