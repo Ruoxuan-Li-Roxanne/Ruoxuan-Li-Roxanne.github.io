@@ -5,9 +5,6 @@ permalink: /funfacts/
 author_profile: true
 ---
 
-
-{% include base_path %}
-
 Hobbies
 ======
 - Anime, my current year favorite anime is [Frieren: Beyond Journey's End (葬送のフリーレン)](https://frieren-anime.jp/).
