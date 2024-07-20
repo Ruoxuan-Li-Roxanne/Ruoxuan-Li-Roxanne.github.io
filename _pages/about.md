@@ -12,19 +12,19 @@ My name is Ruoxuan (Roxanne) Li. Currently, I am a fourth-year Ph.D. student in 
 
 Research Interests
 ======
-My research interests are focused on the application of advanced statistical methods and machine learning techniques in psychology. Specifically, I have been working on dynamic structural equation models, causal inference, and the development of predictive models using deep learning. I am passionate about exploring how these methodologies can enhance our understanding of psychological processes and improve interventions in educational and health settings.  revise based on projects
+My research interests are focused on the application of advanced statistical methods and machine learning techniques in psychology. Specifically, I have been working on dynamic structural equation models, causal inference, and the development of predictive models using deep learning. I am passionate about exploring how these methodologies can enhance our understanding of psychological processes and improve interventions in educational and health settings. 
 
 Education
 ======
 - 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
 - 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
 - 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
-- 2017 - 2020, B.S. Psychologyy, Beijing Normal University, Beijing, China
+- 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
 
 Honors and Awards
 ======
 - Outstanding Graduate Student TA Awards, University of Notre Dame, 2024
-- 
+- National Scholarship（Top 0.2%）in recognition of outstanding academic performance, China, 2018 and 2019
 
 Selected Publications
 ======
@@ -53,5 +53,19 @@ Selected Talks
 - **Li, R.**, Liu, H., & Yao, M. (2018). The roles of autonomy support from parents and head teacher in adolescents’ subjective well-being and loneliness: A person-centered perspective.
 
 
-Selected Talks
+Service
 ======
+I have served as a reviewer for more than 20 peer-reviewed journals, including:
+- Journal of Happiness Studies
+- Public Health
+- Social Science Computer Review
+- Journal of Child and Family Studies
+- Frontiers in Psychology
+- Behavior & Information Technology
+- Current Psychology
+- BMC Psychology
+- Journal of School Violence
+
+Teaching
+======
+2024 and 2023 Spring, Behavior Science, Teaching Assistant
