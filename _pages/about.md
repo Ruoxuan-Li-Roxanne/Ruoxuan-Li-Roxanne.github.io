@@ -14,6 +14,8 @@ Research Interests
 ======
 My research interests are focused on the application of advanced statistical methods and machine learning techniques in psychology. Specifically, I have been working on dynamic structural equation models, causal inference, and the development of predictive models using deep learning. I am passionate about exploring how these methodologies can enhance our understanding of psychological processes and improve interventions in educational and health settings. 
 
+Currently, my work encompasses both methodological and empirical studies. Methodologically, I am interested in developing new methods within the structural equation modeling framework and comparing longitudinal models in mediation analysis. Empirically, I explore adolescents’ development, including studies on discrimination and distress, as well as industry and organizational topics such as employees’ motivational dynamics and teachers’ turnover intentions.
+
 Education
 ======
 - 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
@@ -57,7 +59,6 @@ I have served as a reviewer for more than 20 peer-reviewed journals, including:
 - Public Health
 - Social Science Computer Review
 - Journal of Child and Family Studies
-- Frontiers in Psychology
 - Behavior & Information Technology
 - Current Psychology
 - BMC Psychology
@@ -66,9 +67,3 @@ I have served as a reviewer for more than 20 peer-reviewed journals, including:
 Teaching
 ======
 2024 and 2023 Spring, Behavior Science, Teaching Assistant
-
-Hobbies
-======
-- Anime, my current year favorite anime is [Frieren: Beyond Journey's End (葬送のフリーレン)](https://frieren-anime.jp/).
-- Journaling, my current year favorite journal brand is [Hobonichi](https://www.1101.com/store/techo/en/).
-- Sewing, just repaired my friend's pants that ripped from skiing and made a grocery bag using free sewing techniques.
