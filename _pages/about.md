@@ -66,3 +66,9 @@ I have served as a reviewer for more than 20 peer-reviewed journals, including:
 Teaching
 ======
 2024 and 2023 Spring, Behavior Science, Teaching Assistant
+
+Hobbies
+======
+- Anime (My current year favorite anime: [Frieren: Beyond Journey's End(葬送のフリーレン)](https://frieren-anime.jp/))
+- Journaling (My current year favorite journal brand: [Hobonichi](https://www.1101.com/store/techo/en/))
+- Sewing: Here's a revised version:Repaired my friend's pants that ripped from skiing and made a grocery bag using free sewing techniques.
