@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3801a031-509a-4644-a915-66efef7ae77a)---
+---
 permalink: /
 title: "About me"
 author_profile: true
