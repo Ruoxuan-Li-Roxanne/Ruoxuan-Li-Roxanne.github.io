@@ -9,7 +9,7 @@ Academic Adventures
 ======
 - **First Rejection and Acceptance**: My first rejection came in Dec 2017, followed by a milestone achievement when *Personality and Individual Differences* accepted my first paper in October 2018.
 - **Longest Waiting Period**: Endured a 21-month wait before the first revision, a true test of patience. 
-- **Most Challenging Revision**: Embraced three rounds of revisions that not only significantly improved the paper’s quality but also taught me valuable lessons in reviewing academic work. ([in case you are interested](https://link.springer.com/article/10.1007/s10902-019-00192-w)).
+- **Most Challenging Revision**: Embraced three rounds of revisions that not only significantly improved the paper’s quality but also taught me valuable lessons in reviewing academic work ([in case you are interested](https://link.springer.com/article/10.1007/s10902-019-00192-w)).
 
 Hobbies
 ======
