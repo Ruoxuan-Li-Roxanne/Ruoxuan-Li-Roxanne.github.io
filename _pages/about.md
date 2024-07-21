@@ -18,13 +18,13 @@ Currently, my work encompasses both methodological and empirical studies. Method
 
 Education
 ======
-:school_satchel: 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
+🎒 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
 
-:mortar_board: 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
+🎓 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
 
-:mortar_board: 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
+🎓 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
 
-:mortar_board: 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
+🎓 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
 
 Honors and Awards
 ======
