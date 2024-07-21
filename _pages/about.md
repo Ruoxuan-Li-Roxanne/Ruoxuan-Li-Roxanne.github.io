@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoxuan (Roxanne) Li. Currently, I am a fourth-year Ph.D. student in Quantitative Psychology program at the University of Notre Dame, where I have been studying since 2021. I am current under supervision of [Prof. Lijuan (Peggy) Wang](https://psychology.nd.edu/people/lijuan-wang/) at University of Notre Dame. I also work with [Prof. Margarita Alegría](https://researchers.mgh.harvard.edu/profile/13971584/Margarita-Alegria) at Harvard Medical School, [Prof. Irene J. K. Park](https://scholar.google.com/citations?user=Z-1G3OEAAAAJ&hl=en) at Indiana University School of Medicine, and [Prof. Tiffany Yip](https://www.fordham.edu/academics/departments/psychology/faculty-and-staff/tiffany-yip/) at Fordham University.
+My name is Ruoxuan (Roxanne) Li. Currently, I am a fourth-year Ph.D. student in Quantitative Psychology program at the University of Notre Dame, where I have been studying since 2021. I am current under supervision of [Prof. Lijuan (Peggy) Wang](https://psychology.nd.edu/people/lijuan-wang/) at University of Notre Dame. I also work close with [Prof. Irene J. K. Park](https://scholar.google.com/citations?user=Z-1G3OEAAAAJ&hl=en) at Indiana University School of Medicine, [Prof. Margarita Alegría](https://researchers.mgh.harvard.edu/profile/13971584/Margarita-Alegria) at Harvard Medical School, and [Prof. Tiffany Yip](https://www.fordham.edu/academics/departments/psychology/faculty-and-staff/tiffany-yip/) at Fordham University.
 
 
 Research Interests
@@ -18,10 +18,13 @@ Currently, my work encompasses both methodological and empirical studies. Method
 
 Education
 ======
-- 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
-- 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
-- 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
-- 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
+:school_satchel: 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
+
+:mortar_board: 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
+
+:mortar_board: 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
+
+:mortar_board: 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
 
 Honors and Awards
 ======
