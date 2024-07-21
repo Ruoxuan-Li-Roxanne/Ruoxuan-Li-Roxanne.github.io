@@ -17,6 +17,11 @@ Hobbies
 - :notebook: **Journaling**: My current year favorite journal brand is Hobonichi.
 - :thread: **Sewing**: Just repaired my friend's pants that ripped from skiing and made a grocery bag using free sewing techniques.
 
+- **Anime** 📺, my current year favorite anime is [Frieren: Beyond Journey's End (葬送のフリーレン)](https://frieren-anime.jp/).
+- **Journaling** 📓, my current year favorite journal brand is Hobonichi.
+- **Sewing** 🧵, just repaired my friend's pants that ripped from skiing and made a grocery bag using free sewing techniques.
+
+- 
 If We Eat Together
 ======
 - :cup_with_straw: **Coke Zero Everyday**: I’ll make sure there’s Coke Zero on hand (not Diet Coke) for our 24-hour beverage supply.
