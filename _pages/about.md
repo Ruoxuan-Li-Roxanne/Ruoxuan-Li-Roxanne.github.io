@@ -31,6 +31,10 @@ Honors and Awards
 - Outstanding Graduate Student TA Awards, University of Notre Dame, 2024
 - National Scholarship（Top 0.2%）in recognition of outstanding academic performance, China, 2018 and 2019
 
+Professional Experience
+======
+May 2025 - Aug 2024, Analytics and AI Solutions Intern, IQVIA
+
 Selected Publications
 ======
 - Park, I. J., Wang, L., **Li, R.**, Yip, T., Valentino, K., Cruz‐Gonzalez, M., ... & Alegría, M. (2024). A daily diary study of discrimination and distress in Mexican‐origin adolescents: Testing mediating mechanisms. *Child Development*, 1-16.
