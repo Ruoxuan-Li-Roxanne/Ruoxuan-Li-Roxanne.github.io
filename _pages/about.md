@@ -24,7 +24,7 @@ Education
 
 🎓 2017 - 2020, M.A. School and Education Psychology, Beijing Normal University, Beijing, China
 
-🎓 2017 - 2020, B.S. Psychology, Beijing Normal University, Beijing, China
+🎓 2013 - 2017, B.S. Psychology, Beijing Normal University, Beijing, China
 
 Honors and Awards
 ======
@@ -34,6 +34,7 @@ Honors and Awards
 Professional Experience
 ======
 May 2025 - Aug 2024, Analytics and AI Solutions Intern, IQVIA
+Sep 2018 - Feb 2019, User Research and Data Analytics Intern, Xiaomi
 
 Selected Publications
 ======

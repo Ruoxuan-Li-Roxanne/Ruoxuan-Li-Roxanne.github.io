@@ -17,7 +17,7 @@ Hobbies
 ======
 📺 **Anime**: My current year favorite anime is [Frieren: Beyond Journey's End (葬送のフリーレン)](https://frieren-anime.jp/).
 
-📓 **Journaling**: My current year favorite journal brand is Hobonichi.
+📓 **Journaling**: My current year favorite journal brand is Plotter.
 
 🧵 **Sewing**: Just repaired my friend's pants that ripped from skiing and made a grocery bag using free sewing techniques.
 
