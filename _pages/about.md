@@ -33,8 +33,8 @@ Honors and Awards
 
 Professional Experience
 ======
-May 2025 - Aug 2024, Analytics and AI Solutions Intern, IQVIA
-Sep 2018 - Feb 2019, User Research and Data Analytics Intern, Xiaomi
+- May 2025 - Aug 2024, Analytics and AI Solutions Intern, IQVIA
+- Sep 2018 - Feb 2019, User Research and Data Analytics Intern, Xiaomi
 
 Selected Publications
 ======
