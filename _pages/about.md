@@ -64,14 +64,16 @@ Service
 ======
 I have served as a reviewer for more than 20 peer-reviewed journals, including:
 - Journal of Happiness Studies
+- British Journal of Mathematical and Statistical Psychology
 - Public Health
 - Social Science Computer Review
+- Journal of School Violence
 - Journal of Child and Family Studies
 - Behavior & Information Technology
 - Current Psychology
 - BMC Psychology
-- Journal of School Violence
 
 Teaching
 ======
-2024 and 2023 Spring, Behavior Science, Teaching Assistant
+- 2024 Spring, Statistical Consultant of Department of Psychology, University of Notre Dame
+- 2024 and 2023 Spring, Behavior Science, Teaching Assistant, University of Notre Dame
