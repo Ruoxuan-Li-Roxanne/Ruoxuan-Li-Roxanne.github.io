@@ -38,6 +38,7 @@ Professional Experience
 
 Selected Publications
 ======
+- Liu, H., Wang, L., & **Li, R.**. (2025). Longitudinal data analysis methods and their applications (追踪数据分析方法及应用). Beijing Normal University Press.
 - Park, I. J., Wang, L., **Li, R.**, Yip, T., Valentino, K., Cruz‐Gonzalez, M., ... & Alegría, M. (2024). A daily diary study of discrimination and distress in Mexican‐origin adolescents: Testing mediating mechanisms. *Child Development*, 1-16.
 - **Li, R.**, & Wang, L. (2024). Investigating weight constraint methods for causal-formative indicator modeling. *Behavior Research Methods*, 1-13.
 - **Li, R.**, & Wang, L. (2024). An Analytical Comparison of Three Modeling Approaches for Longitudinal Mediation Analysis. *Multivariate Behavioral Research*, 1-3.
