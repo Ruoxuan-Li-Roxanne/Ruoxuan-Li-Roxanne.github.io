@@ -33,8 +33,18 @@ Honors and Awards
 
 Professional Experience
 ======
-- May 2025 - Aug 2024, Analytics and AI Solutions Intern, IQVIA
-- Sep 2018 - Feb 2019, User Research and Data Analytics Intern, Xiaomi
+👓  **Meta**, Data Scientist Intern, May 2025 - Aug 2025
+- Analyzed product quality, user engagement, and retention for Ray-Ban Meta Glasses
+- Applied causal inference and behavioral analytics to inform product strategy
+
+💻  **IQVIA**, Analytics and AI Solutions Intern, May 2024 - Aug 2024
+- Developed time-series machine learning models to forecast daily pharmaceutical production
+- Built and optimized automated parameter pipelines for manufacturing prediction and trend analysis
+
+📱 **Xiaomi**, User Research and Data Analytics Intern, Sep 2018 - Feb 2019
+- Conducted UX evaluations for mobile UI designs and performed segment-based behavioral analysis
+- Designed a mobile phone usability evaluation framework, including survey instrument development and psychometric testing for reliability and validity
+
 
 Selected Publications
 ======
