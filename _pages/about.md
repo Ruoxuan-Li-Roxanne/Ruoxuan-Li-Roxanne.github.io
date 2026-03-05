@@ -28,8 +28,7 @@ Education
 
 Honors and Awards
 ======
-- Outstanding Graduate Student TA Awards, University of Notre Dame, 2024
-- National Scholarship（Top 0.2%）in recognition of outstanding academic performance, China, 2018 and 2019
+- Outstanding Graduate Student Teaching Assistant Awards, University of Notre Dame, 2024
 
 Professional Experience
 ======
