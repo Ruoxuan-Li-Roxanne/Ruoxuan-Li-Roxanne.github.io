@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoxuan (Roxanne) Li. Currently, I am a fourth-year Ph.D. student in Quantitative Psychology program at the University of Notre Dame, where I have been studying since 2021. I am current under supervision of [Prof. Lijuan (Peggy) Wang](https://psychology.nd.edu/people/lijuan-wang/) at University of Notre Dame. I also work close with [Prof. Irene J. K. Park](https://scholar.google.com/citations?user=Z-1G3OEAAAAJ&hl=en) at Indiana University School of Medicine, [Prof. Margarita Alegría](https://researchers.mgh.harvard.edu/profile/13971584/Margarita-Alegria) at Harvard Medical School, and [Prof. Tiffany Yip](https://www.fordham.edu/academics/departments/psychology/faculty-and-staff/tiffany-yip/) at Fordham University.
+My name is Ruoxuan (Roxanne) Li. Currently, I am a Ph.D. student in Quantitative Psychology program at the University of Notre Dame, where I have been studying since 2021. I am current under supervision of [Prof. Lijuan (Peggy) Wang](https://psychology.nd.edu/people/lijuan-wang/) at University of Notre Dame. I also work close with [Prof. Irene J. K. Park](https://scholar.google.com/citations?user=Z-1G3OEAAAAJ&hl=en) at Indiana University School of Medicine, [Prof. Margarita Alegría](https://researchers.mgh.harvard.edu/profile/13971584/Margarita-Alegria) at Harvard Medical School, and [Prof. Tiffany Yip](https://www.fordham.edu/academics/departments/psychology/faculty-and-staff/tiffany-yip/) at Fordham University.
 
 
 Research Interests
@@ -47,6 +47,7 @@ Professional Experience
 
 Selected Publications
 ======
+- Wang, L., **Li, R.**. (2025). Tobit modeling for dependent-sample t-tests and moderated regression with ceiling or floor data. Behavior Research Methods, 58(1), 23.
 - **Li, R.**. (2025). Towards fairer AI: Integrating psychological insights into gender bias testing. AI & SOCIETY, 1-18.
 - Liu, H., Wang, L., & **Li, R.**. (2025). Longitudinal data analysis methods and their applications (追踪数据分析方法及应用). Beijing Normal University Press.
 - Park, I. J., Wang, L., **Li, R.**, Yip, T., Valentino, K., Cruz‐Gonzalez, M., ... & Alegría, M. (2024). A daily diary study of discrimination and distress in Mexican‐origin adolescents: Testing mediating mechanisms. *Child Development*, 1-16.
