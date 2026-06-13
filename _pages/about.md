@@ -18,7 +18,7 @@ Currently, my work encompasses both methodological and empirical studies. Method
 
 Education
 ======
-🎒 2021 - Now, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
+🎓 2021 - 2026, Ph.D. Quantitative Psychology, University of Notre Dame, Notre Dame, IN, USA
 
 🎓 2021 - 2024, M.S. Applied Statistics, University of Notre Dame, Notre Dame, IN, USA
 
@@ -32,6 +32,9 @@ Honors and Awards
 
 Professional Experience
 ======
+📲  **Meta**, Data Scientist, May 2026 - Now
+- Support advertisement ranking and recommendation systems health
+
 👓  **Meta**, Data Scientist Intern, May 2025 - Aug 2025
 - Analyzed product quality, user engagement, and retention for Ray-Ban Meta Glasses
 - Applied causal inference and behavioral analytics to inform product strategy
