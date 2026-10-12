@@ -53,8 +53,10 @@ Publications
 Journal Articles in English
 ------
 
+- Wang, L., Yip, T., Fang, Y., **Li, R.**, Lorenzo, K., Park, I. J. K., Valentino, K., Cruz-Gonzalez, M., Zhen-Duan, J., Alvarez, K., & Alegría, M. (2026). Careless responding in daily diary research: Detection and impact on intensive longitudinal data analyses. *Journal of Behavioral Data Science*, 6(2), 1-24. doi: [10.35566/jbds/wang2026](https://doi.org/10.35566/jbds/wang2026)
+- Valentino, K., Wang, L., **Li, R.**, Park, I. J. K., Zhen-Duan, J., Yip, T., Cruz-Gonzalez, M., Alvarez, K., & Alegría, M. (2026). Family cohesion and cultural socialization as buffers of the association between discrimination and internalizing symptoms across adolescence. *Developmental Psychology*. Advance online publication. doi: [10.1037/dev0002225](https://doi.org/10.1037/dev0002225)
+- **Li, R.** (2026). Towards fairer AI: Integrating psychological insights into gender bias testing. *AI & SOCIETY*, 41(3), 2181-2198. doi: [10.1007/s00146-025-02639-6](https://doi.org/10.1007/s00146-025-02639-6)
 - Wang, L., **Li, R.**. (2025). Tobit modeling for dependent-sample t-tests and moderated regression with ceiling or floor data. *Behavior Research Methods*, 58(1), 23.
-- **Li, R.**. (2025). Towards fairer AI: Integrating psychological insights into gender bias testing. *AI & SOCIETY*, 1-18.
 - Park, I. J., Wang, L., **Li, R.**, Yip, T., Valentino, K., Cruz-Gonzalez, M., ... & Alegría, M. (2024). A daily diary study of discrimination and distress in Mexican-origin adolescents: Testing mediating mechanisms. *Child Development*, 1-16.
 - **Li, R.**, & Wang, L. (2024). Investigating weight constraint methods for causal-formative indicator modeling. *Behavior Research Methods*, 1-13.
 - **Li, R.**, & Wang, L. (2024). An Analytical Comparison of Three Modeling Approaches for Longitudinal Mediation Analysis. *Multivariate Behavioral Research*, 1-3.
